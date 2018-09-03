@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e7698312-5a60-465e-b714-5ddd21ee76c0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Toradora-TenoriTaiga": {
+      "ver": "1.0.3",
+      "uuid": "4e8e95dd-9315-480f-ab6a-4b9b69efe5c4",
+      "rawTextureUuid": "e7698312-5a60-465e-b714-5ddd21ee76c0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 250,
+      "height": 250,
+      "rawWidth": 250,
+      "rawHeight": 250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
